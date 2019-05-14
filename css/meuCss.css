@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    border: 0;
+}
+body{
+    background: #e53935;
+}
+#fo{
+    font-size: 35px;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    left: 460px;
+    top: -30px;
+}
+#na{
+    font-size: 35px;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    left: 460px;
+}
+#forbidden{
+    position: relative;
+    left: 31%;
+    width: 500px;
+    height: 400px;;
+}
+form{
+    width: 480px;
+    height: 490px;
+    border-radius: 5px;
+    background: #fff;
+    position: absolute;
+    left: 450px;
+    top: 60px;
+}
+.input-field{
+    width: 400px;
+    position: relative;
+    left: 40px;
+}
+.input-field input{
+    color: #009668;
+}
+.btn-file{
+    height: 10px;
+    background: #009668;
+    position: relative;
+}
+#enviar{
+    padding: 8px;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+}
+.waves-effect{
+    background:#009668;
+    width: 80px;
+    font-size: 16px;
+    padding: 7px;
+    position: relative;
+    left: 175px;
+}
